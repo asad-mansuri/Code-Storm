@@ -6,7 +6,7 @@
 ![Elimination Round](https://img.shields.io/badge/Competition-Elimination-blue?logo=&logoColor=white)
 ![Hackathon](https://img.shields.io/badge/Samadhan-2.0-orange?logo=hackathon&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-![Progress](https://img.shields.io/badge/Completed-5%2F21-lightgrey)
+![Progress](https://img.shields.io/badge/Completed-6%2F21-lightgrey)
 
 ---
 
@@ -70,7 +70,7 @@ By the end of this challenge, you’ll gain confidence in:
 | 3   | Arrays & Objects             | [Day 3/script.js](Day%203/script.js)                                                 |
 | 4   | Node.js Intro                | [Day 4/script.js](Day%204/script.js)                                                 |
 | 5   | Express.js Basics            | [Day 5/script.js](Day%205/script.js)                                                 |
-| 6   | React Setup                  | [Day 6/file-path-is-not-exist-currently](Day%206/)                                   |
+| 6   | React Setup                  | [Day 6/file-is-provided-after-some-time](Day%206/)                                   |
 | 7   | State Management             | [Day 7/file-path-is-not-exist-currently](Day%207/)                                   |
 | 8   | Lists & Events               | [Day 8/file-path-is-not-exist-currently](Day%208/)                                   |
 | 9   | useEffects & Fetch Api       | [Day 9/file-path-is-not-exist-currently](Day%209/)                                   |
@@ -101,7 +101,7 @@ Check off as you progress:
 
  ☑ Day 5 - Api returning a list of students (JSON)
 
- ☐ Day 6 - Profile Card Component
+ ☑ Day 6 - Profile Card Component
 
  ☐ Day 7 - Counter + Live Text Preview
 
