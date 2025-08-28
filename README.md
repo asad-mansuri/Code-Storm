@@ -72,7 +72,7 @@ By the end of this challenge, you’ll gain confidence in:
 | 5   | Express.js Basics            | [Day 5/script.js](Day%205/script.js)                                                 |
 | 6   | React Setup                  | [Day 6/Profile Cards](Day%206/my-profile-card-app)                                   |
 | 7   | State Management             | [Day 7/File-path-is-aviable-soon](Day%207/Day-7)                                   |
-| 8   | Lists & Events               | [Day 8/file-path-is-not-exist-currently](Day%208/)                                   |
+| 8   | Lists & Events               | [Day 8/file-path-is-not-exist-currently](Day%208/day-8)                                   |
 | 9   | useEffects & Fetch Api       | [Day 9/file-path-is-not-exist-currently](Day%209/)                                   |
 | 10  | Styling                      | [Day 10/file-path-is-not-exist-currently](Day%2010/)                                 |
 | 11  | Backend CRUD                 | [Day 11/file-path-is-not-exist-currently](Day%2011/)                                 |
