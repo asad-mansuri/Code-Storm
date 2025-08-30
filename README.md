@@ -6,7 +6,7 @@
 ![Elimination Round](https://img.shields.io/badge/Competition-Elimination-blue?logo=&logoColor=white)
 ![Hackathon](https://img.shields.io/badge/Samadhan-2.0-orange?logo=hackathon&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-![Progress](https://img.shields.io/badge/Completed-6%2F21-lightgrey)
+![Progress](https://img.shields.io/badge/Completed-7%2F21-lightgrey)
 
 ---
 
@@ -71,7 +71,7 @@ By the end of this challenge, you’ll gain confidence in:
 | 4   | Node.js Intro                | [Day 4/script.js](Day%204/script.js)                                                 |
 | 5   | Express.js Basics            | [Day 5/script.js](Day%205/script.js)                                                 |
 | 6   | React Setup                  | [Day 6/Profile Cards](Day%206/my-profile-card-app)                                   |
-| 7   | State Management             | [Day 7/file-path-is-not-exist-currently](Day%207/)                                   |
+| 7   | State Management             | [Day 7/counter-text-app](Day%207/Day-7)                                   |
 | 8   | Lists & Events               | [Day 8/file-path-is-not-exist-currently](Day%208/)                                   |
 | 9   | useEffects & Fetch Api       | [Day 9/file-path-is-not-exist-currently](Day%209/)                                   |
 | 10  | Styling                      | [Day 10/file-path-is-not-exist-currently](Day%2010/)                                 |
@@ -103,7 +103,7 @@ Check off as you progress:
 
  ☑ Day 6 - Profile Card Component
 
- ☐ Day 7 - Counter + Live Text Preview
+ ☑ Day 7 - Counter + Live Text Preview
 
  ☐ Day 8 - To-Do List (local state only)
 
