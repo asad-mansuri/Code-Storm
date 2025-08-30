@@ -72,7 +72,7 @@ By the end of this challenge, you’ll gain confidence in:
 | 5   | Express.js Basics            | [Day 5/script.js](Day%205/script.js)                                                 |
 | 6   | React Setup                  | [Day 6/Profile Cards](Day%206/my-profile-card-app)                                   |
 | 7   | State Management             | [Day 7/counter-text-app](Day%207/Day-7)                                   |
-| 8   | Lists & Events               | [Day 8/file-path-is-not-exist-currently](Day%208/)                                   |
+| 8   | Lists & Events               | [Day 8/To-Do-App](Day%208/Day-8)                                   |
 | 9   | useEffects & Fetch Api       | [Day 9/file-path-is-not-exist-currently](Day%209/)                                   |
 | 10  | Styling                      | [Day 10/file-path-is-not-exist-currently](Day%2010/)                                 |
 | 11  | Backend CRUD                 | [Day 11/file-path-is-not-exist-currently](Day%2011/)                                 |
@@ -105,7 +105,7 @@ Check off as you progress:
 
  ☑ Day 7 - Counter + Live Text Preview
 
- ☐ Day 8 - To-Do List (local state only)
+ ☑ Day 8 - To-Do List (local state only)
 
  ☐ Day 9 - Student Directory (backend + frontend)
 
