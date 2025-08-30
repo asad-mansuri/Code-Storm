@@ -70,7 +70,7 @@ By the end of this challenge, you’ll gain confidence in:
 | 3   | Arrays & Objects             | [Day 3/script.js](Day%203/script.js)                                                 |
 | 4   | Node.js Intro                | [Day 4/script.js](Day%204/script.js)                                                 |
 | 5   | Express.js Basics            | [Day 5/script.js](Day%205/script.js)                                                 |
-| 6   | React Setup                  | [Day 6/file-is-provided-after-some-time](Day%206/)                                   |
+| 6   | React Setup                  | [Day 6/Profile Cards](Day%206/my-profile-card-app)                                   |
 | 7   | State Management             | [Day 7/file-path-is-not-exist-currently](Day%207/)                                   |
 | 8   | Lists & Events               | [Day 8/file-path-is-not-exist-currently](Day%208/)                                   |
 | 9   | useEffects & Fetch Api       | [Day 9/file-path-is-not-exist-currently](Day%209/)                                   |
