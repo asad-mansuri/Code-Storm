@@ -6,7 +6,7 @@
 ![Elimination Round](https://img.shields.io/badge/Competition-Elimination-blue?logo=&logoColor=white)
 ![Hackathon](https://img.shields.io/badge/Samadhan-2.0-orange?logo=hackathon&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-![Progress](https://img.shields.io/badge/Completed-7%2F21-lightgrey)
+![Progress](https://img.shields.io/badge/Completed-9%2F21-lightgrey)
 
 ---
 
@@ -73,7 +73,7 @@ By the end of this challenge, you’ll gain confidence in:
 | 6   | React Setup                  | [Day 6/Profile Cards](Day%206/my-profile-card-app)                                   |
 | 7   | State Management             | [Day 7/counter-text-app](Day%207/Day-7)                                   |
 | 8   | Lists & Events               | [Day 8/To-Do-App](Day%208/Day-8)                                   |
-| 9   | useEffects & Fetch Api       | [Day 9/file-path-is-not-exist-currently](Day%209/)                                   |
+| 9   | useEffects & Fetch Api       | [Day 9/Student-Directory](Day%209/Day-9)                                   |
 | 10  | Styling                      | [Day 10/file-path-is-not-exist-currently](Day%2010/)                                 |
 | 11  | Backend CRUD                 | [Day 11/file-path-is-not-exist-currently](Day%2011/)                                 |
 | 12  | React + Api                  | [Day 12/file-path-is-not-exist-currently](Day%2012/)                                 |
@@ -107,7 +107,7 @@ Check off as you progress:
 
  ☑ Day 8 - To-Do List (local state only)
 
- ☐ Day 9 - Student Directory (backend + frontend)
+ ☑ Day 9 - Student Directory (backend + frontend)
 
  ☐ Day 10 - Styled Product Card List
 
