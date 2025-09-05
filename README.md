@@ -6,10 +6,9 @@
 ![Elimination Round](https://img.shields.io/badge/Competition-Elimination-blue?logo=&logoColor=white)
 ![Hackathon](https://img.shields.io/badge/Samadhan-2.0-orange?logo=hackathon&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-![Progress](https://img.shields.io/badge/Completed-9%2F21-lightgrey)
+![Progress](https://img.shields.io/badge/Completed-11%2F21-lightgrey)
 
 ---
-
 ## 📌 Overview  
 This repository is a **21-day coding challenge journey**, created for the **Samadhan 2.0 Hackathon elimination round**.  
 It’s designed to sharpen **JavaScript fundamentals, problem-solving skills, and hands-on coding practice**.  
@@ -71,11 +70,11 @@ By the end of this challenge, you’ll gain confidence in:
 | 4   | Node.js Intro                | [Day 4/script.js](Day%204/script.js)                                                 |
 | 5   | Express.js Basics            | [Day 5/script.js](Day%205/script.js)                                                 |
 | 6   | React Setup                  | [Day 6/Profile Cards](Day%206/my-profile-card-app)                                   |
-| 7   | State Management             | [Day 7/counter-text-app](Day%207/Day-7)                                   |
-| 8   | Lists & Events               | [Day 8/To-Do-App](Day%208/Day-8)                                   |
-| 9   | useEffects & Fetch Api       | [Day 9/Student-Directory](Day%209/Day-9)                                   |
-| 10  | Styling                      | [Day 10/file-path-is-not-exist-currently](Day%2010/)                                 |
-| 11  | Backend CRUD                 | [Day 11/file-path-is-not-exist-currently](Day%2011/)                                 |
+| 7   | State Management             | [Day 7/counter-text-app](Day%207/Day-7)                                              |
+| 8   | Lists & Events               | [Day 8/To-Do-App](Day%208/Day-8)                                                     |
+| 9   | useEffects & Fetch Api       | [Day 9/Student-Directory](Day%209/Day-9)                                             |
+| 10  | Styling                      | [Day 10/file-path-is-not-exist-currently](Day%2010/Day-10)                           |
+| 11  | Backend CRUD                 | [Day 11/file-path-is-not-exist-currently](Day%2011/Day-11)                           |
 | 12  | React + Api                  | [Day 12/file-path-is-not-exist-currently](Day%2012/)                                 |
 | 13  | Database Basics              | [Day 13/file-path-is-not-exist-currently](Day%2013/)                                 |
 | 14  | Authentication Basics        | [Day 14/file-path-is-not-exist-currently](Day%2014/)                                 |
@@ -109,9 +108,9 @@ Check off as you progress:
 
  ☑ Day 9 - Student Directory (backend + frontend)
 
- ☐ Day 10 - Styled Product Card List
+ ☑ Day 10 - Styled Product Card List
 
- ☐ Day 11 - Student CRUD API
+ ☑ Day 11 - Student CRUD API
 
  ☐ Day 12 - To-Do App (with Node backend)
 
